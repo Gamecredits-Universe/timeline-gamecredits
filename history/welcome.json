@@ -242,6 +242,29 @@
                 "headline": "",
                 "text": ""
             }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"06",
+                "day": 			"29",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "GameCredits Merges Gaming and Cryptocurrencies",
+                "credit": "",
+                "url": "http://www.coindesk.com/press-releases/gamecredits-gaming-crypto-closer-together/",
+                "thumb": 	"http://edmoy.com/wp-content/uploads/2014/06/coindesk-1.png",
+				"link": "http://www.coindesk.com/press-releases/gamecredits-gaming-crypto-closer-together/"
+            },
+            "text": {
+                "headline": "GameCredits Merges Gaming and Cryptocurrencies",
+                "text": "The imminent launch of GameCredits’ multi-player game “Ring 13: The Curse of Nakamoto, aims to propel GameCredits to the forefront of mobile and online gaming industries. Injecting itself into this market delivers a vast network of opportunity for stakeholders, investors, customers, and users alike."
+            }
         }
     ]
 	
