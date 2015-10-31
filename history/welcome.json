@@ -265,6 +265,75 @@
                 "headline": "GameCredits Merges Gaming and Cryptocurrencies",
                 "text": "The imminent launch of GameCredits’ multi-player game “Ring 13: The Curse of Nakamoto, aims to propel GameCredits to the forefront of mobile and online gaming industries. Injecting itself into this market delivers a vast network of opportunity for stakeholders, investors, customers, and users alike."
             }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"06",
+                "day": 			"09",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "GameCredits #gamecredits hits freenode IRC",
+                "credit": "",
+                "url": "http://basekamp.com/sites/default/files/event/ircfreenodenet.png",
+                "thumb": 	"http://basekamp.com/sites/default/files/event/ircfreenodenet.png",
+				"link": "https://kiwiirc.com/client/irc.freenode.net/#gamecredits"
+            },
+            "text": {
+                "headline": "GameCredits #gamecredits hits freenode IRC",
+                "text": "The #gamecredits channel is registered on freenode IRC, a discussion network for free and open source gaming development communities."
+            }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"07",
+                "day": 			"05",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "German version website is now available!",
+                "credit": "",
+                "url": "http://www.german-flag.org/german-640.gif",
+                "thumb": 	"http://www.german-flag.org/german-640.gif",
+				"link": "http://gamecredits.net/de/"
+            },
+            "text": {
+                "headline": "German version website is now available!",
+                "text": "Gamecredits is an international open source project. Over the last year, users from over 120 countries have visited gamecredits.net"
+            }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"10",
+                "day": 			"05",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Dutch version website is now available!",
+                "credit": "",
+                "url": "http://www.nationalflaggen.de/media/flags/flagge-niederlande.gif",
+                "thumb": 	"http://www.nationalflaggen.de/media/flags/flagge-niederlande.gif",
+				"link": "http://gamecredits.net/nl/"
+            },
+            "text": {
+                "headline": "Dutch version website is now available!",
+                "text": "Gamecredits is an international open source project. Over the last year, users from over 120 countries have visited gamecredits.net"
+            }
         }
     ]
 	
