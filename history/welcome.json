@@ -634,11 +634,6 @@
                 "text": "Play Gamecredits Dice Game,Slots,Blackjack,Lotto"
             }
         },
-            "text": {
-                "headline": "Gamecredits added to Key 4 coin.",
-                "text": "The combined love for games and cryptocurrencys lead to the founding of Key4co.in in early 2014. Since then we provide you with fast and cheap delivered gamekeys."
-            }
-        },
         {
              "start_date": {
                 "year":			"2015",
@@ -653,9 +648,9 @@
             "media": {
                 "caption": "bluelab.us became an official GameCredits partner!",
                 "credit": "",
-                "url": "http://www.bluelab.us/wp-content/uploads/2014/07/Home-banner-1170-x-400-Blue-Lab.jpg",
-                "thumb": 	"http://www.bluelab.us/wp-content/uploads/2014/07/Home-banner-1170-x-400-Blue-Lab.jpg",
-				"link": "http://www.bluelab.us/"
+                "url": "images/Home-banner-1170-x-400-Blue-Lab.jpg",
+                "thumb": 	"images/Home-banner-1170-x-400-Blue-Lab.jpg",
+				"link": "http://www.bluelab.us"
             },
             "text": {
                 "headline": "bluelab.us became an official GameCredits partner!",
