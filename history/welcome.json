@@ -449,6 +449,75 @@
                 "headline": "GameCredits Targets 65 Billion Gaming Industry",
                 "text": "GameCredits’ primary initiative consists of developing a  digital currency-driven gaming platform, focused on providing an elegant, secure, and robust system aimed at replacing existing in-game purchasing options and mechanisms. BNC reached out to the team for an exclusive interview to find out more."
             }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"08",
+                "day": 			"03",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "GameCredits – Brave New Coin, Brand New Vision",
+                "credit": "",
+                "url": "http://cryptbond.com/wp-content/uploads/2015/08/Game-over-800x509.jpg",
+                "thumb": 	"http://cryptbond.com/wp-content/uploads/2015/08/Game-over-800x509.jpg",
+				"link": "http://bravenewcoin.com/news/gamecredits-targets-3-5-billion-gaming-industry/"
+            },
+            "text": {
+                "headline": "GameCredits – Brave New Coin, Brand New Vision",
+                "text": "GameCredits’ primary initiative consists of developing a Currency-Driven Gaming Platform, focused on providing an elegant, and at the same time secure and robust system that can replace existing in-game purchasing options and mechanics."
+            }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"09",
+                "day": 			"13",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Gamecredits recently at Gamescom promoting their new games!",
+                "credit": "",
+                "url": "images/gamescon.jpg",
+                "thumb": 	"images/gamescon.jpg",
+				"link": "http://bitcoinlasvegas.net/gamecredits-coin-gmc-recently-at-gamescon-promoting-their-new-games/"
+            },
+            "text": {
+                "headline": "Gamecredits recently at Gamescom promoting their new games!",
+                "text": "Now on with the goods… Recently GameCredits was at GamersCom promoting their new game “Turbocharged” . Now I cant reveal too much except to say that their are many other games in the works that will use Gamecredits that will be “powered by gamecredits”.  This will revolutionize the way we play games as we know it. In case you havent heard of gamecredits, here is some great info"
+            }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"09",
+                "day": 			"25",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Gamecredits listed on Bittrex",
+                "credit": "",
+                "url": "http://bitcoinist.net/wp-content/uploads/2015/02/bittrex.jpg",
+                "thumb": 	"http://bitcoinist.net/wp-content/uploads/2015/02/bittrex.jpg",
+				"link": "https://bittrex.com/Market/Index?MarketName=BTC-GMC"
+            },
+            "text": {
+                "headline": "Gamecredits listed on Bittrex",
+                "text": "The Next Generation Crypto-Exchange.Based in the United States, we are committed to legal compliance and will take the necessary steps to ensure that our exchange will remain available to the community."
+            }
         }
     ]
 	
