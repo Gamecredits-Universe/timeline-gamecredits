@@ -541,6 +541,52 @@
                 "headline": "Gamecredits listed on Cryptsy.",
                 "text": "Your complete gamecredits and digital currency exchange. Cryptsy is the world's premier gamecredits and digital currency trading solution. Buy and trade GMC today!"
             }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"10",
+                "day": 			"03",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "TurboCharged game is launched!!!",
+                "credit": "",
+                "url": "http://insidebitcoins.com/wp-content/uploads/rss-feed-images/tb1.png",
+                "thumb": 	"http://insidebitcoins.com/wp-content/uploads/rss-feed-images/tb1.png",
+				"link": "http://turbocharged.gamecredits.net/"
+            },
+            "text": {
+                "headline": "TurboCharged game is launched!!!",
+                "text": "TurboCharged is an action packed multiplayer competitive racing experience developed by Curious Cat Ltd in colaboration with the GameCredits Foundation. The game will be available most platforms existing today: Windows. MacOS, Linux, as well as mobile phones with iOS and Android! TurboCharged is game that uses GameCredits as in-game currency."
+            }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"10",
+                "day": 			"03",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Gamecredits added to Coinpayments.",
+                "credit": "",
+                "url": "https://pbs.twimg.com/media/CP0u7O0XAAAjzvL.png",
+                "thumb": 	"https://pbs.twimg.com/media/CP0u7O0XAAAjzvL.png",
+				"link": "https://www.coinpayments.net/store-directory-coin-GMC"
+            },
+            "text": {
+                "headline": "Gamecredits added to Coinpayments.",
+                "text": "Accept Gamecredits now.United States and Canadian merchants now have fiat settlements directly to their bank accounts daily.Offering plugins for all the popular webcarts used today, WooCommerse, OpenCart, WHMCS, Zen Cart, just to name a few. We are always updating and changing the list to fit the community's needs. Feel free to send us a request if your web cart is not supported. Some plugins also offer zero confirmation."
+            }
         }
     ]
 	
