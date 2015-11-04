@@ -587,6 +587,80 @@
                 "headline": "Gamecredits added to Coinpayments.",
                 "text": "Accept Gamecredits now.United States and Canadian merchants now have fiat settlements directly to their bank accounts daily.Offering plugins for all the popular webcarts used today, WooCommerse, OpenCart, WHMCS, Zen Cart, just to name a few. We are always updating and changing the list to fit the community's needs. Feel free to send us a request if your web cart is not supported. Some plugins also offer zero confirmation."
             }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"10",
+                "day": 			"03",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Gamecredits added to Key 4 coin.",
+                "credit": "",
+                "url": "https://pbs.twimg.com/media/CP38mRbWIAA5m34.png",
+                "thumb": 	"https://pbs.twimg.com/media/CP38mRbWIAA5m34.png",
+				"link": "https://t.co/W7cnBLol02"
+            },
+            "text": {
+                "headline": "Gamecredits added to Key 4 coin.",
+                "text": "The combined love for games and cryptocurrencys lead to the founding of Key4co.in in early 2014. Since then we provide you with fast and cheap delivered gamekeys."
+            }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"10",
+                "day": 			"17",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "GameCredits added to Crypto-Games.net!",
+                "credit": "",
+                "url": "images/gamefun.png",
+                "thumb": 	"images/gamefun.png",
+				"link": "https://www.crypto-games.net/"
+            },
+            "text": {
+                "headline": "GameCredits added to Crypto-Games.net!",
+                "text": "Play Gamecredits Dice Game,Slots,Blackjack,Lotto"
+            }
+        },
+            "text": {
+                "headline": "Gamecredits added to Key 4 coin.",
+                "text": "The combined love for games and cryptocurrencys lead to the founding of Key4co.in in early 2014. Since then we provide you with fast and cheap delivered gamekeys."
+            }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"10",
+                "day": 			"18",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "bluelab.us became an official GameCredits partner!",
+                "credit": "",
+                "url": "http://www.bluelab.us/wp-content/uploads/2014/07/Home-banner-1170-x-400-Blue-Lab.jpg",
+                "thumb": 	"http://www.bluelab.us/wp-content/uploads/2014/07/Home-banner-1170-x-400-Blue-Lab.jpg",
+				"link": "http://www.bluelab.us/"
+            },
+            "text": {
+                "headline": "bluelab.us became an official GameCredits partner!",
+                "text": "Blue Lab is IT Broker Some of the services provided are: - Remote software development - User behavior analysis and UI improvement - Mobile devices development - Technology research - New technologies and algorithms development - Computer science application to real world problems - Desktop and Enterprise Applications development - WEB design and development - Game design and general GUI design"
+            }
         }
     ]
 	
