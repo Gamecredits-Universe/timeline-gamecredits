@@ -334,8 +334,7 @@
                 "headline": "Dutch version website is now available!",
                 "text": "Gamecredits is an international open source project. Over the last year, users from over 120 countries have visited gamecredits.net"
             }
-        }
-		,
+        },
         {
              "start_date": {
                 "year":			"2015",
@@ -357,6 +356,29 @@
             "text": {
                 "headline": "GameCredits WebWallet made available",
                 "text": "Be Your Own Bank.GameCredits WebWallet is a free online gamecredits wallet, which you can use to make worldwide payments for free. We make paying with gamecredits easy and secure available anywhere on your phone or desktop.We are not a bank, you retain complete ownership of your Money. We cannot view your balance, see your transactions or make payments on your behalf."
+            }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"07",
+                "day": 			"14",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "GameCredits listed for trading on Cryptopia!",
+                "credit": "",
+                "url": "https://www.cryptopia.co.nz/Content/Images/Logo-large.png",
+                "thumb": 	"https://www.cryptopia.co.nz/Content/Images/Logo-large.png",
+				"link": "https://www.cryptopia.co.nz/Exchange?market=GMC_BTC"
+            },
+            "text": {
+                "headline": "GameCredits listed for trading on Cryptopia!",
+                "text": "Cryptopia's focus is on a better user experience for crypto-currencies. In order to make cryptocurrencies more accessible to everyone we provide mining pools, marketplace, exchange services and a support framework for each coin listed."
             }
         }
     ]
