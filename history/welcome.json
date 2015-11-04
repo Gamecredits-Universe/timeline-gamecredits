@@ -335,6 +335,30 @@
                 "text": "Gamecredits is an international open source project. Over the last year, users from over 120 countries have visited gamecredits.net"
             }
         }
+		,
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"06",
+                "day": 			"10",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "GameCredits WebWallet made available",
+                "credit": "",
+                "url": "images/webwallet.png",
+                "thumb": 	"images/webwallet.png",
+				"link": "http://wallet.gamecredits.net/"
+            },
+            "text": {
+                "headline": "GameCredits WebWallet made available",
+                "text": "Be Your Own Bank.GameCredits WebWallet is a free online gamecredits wallet, which you can use to make worldwide payments for free. We make paying with gamecredits easy and secure available anywhere on your phone or desktop.We are not a bank, you retain complete ownership of your Money. We cannot view your balance, see your transactions or make payments on your behalf."
+            }
+        }
     ]
 	
 }
