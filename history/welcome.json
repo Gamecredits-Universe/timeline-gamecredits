@@ -518,6 +518,29 @@
                 "headline": "Gamecredits listed on Bittrex",
                 "text": "The Next Generation Crypto-Exchange.Based in the United States, we are committed to legal compliance and will take the necessary steps to ensure that our exchange will remain available to the community."
             }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"09",
+                "day": 			"26",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Gamecredits listed on Cryptsy.",
+                "credit": "",
+                "url": "http://bitcoinfansite.com/wp-content/uploads/2014/08/Cryptsy.png",
+                "thumb": 	"http://bitcoinfansite.com/wp-content/uploads/2014/08/Cryptsy.png",
+				"link": "https://www.cryptsy.com/markets/view/GMC_BTC"
+            },
+            "text": {
+                "headline": "Gamecredits listed on Cryptsy.",
+                "text": "Your complete gamecredits and digital currency exchange. Cryptsy is the world's premier gamecredits and digital currency trading solution. Buy and trade GMC today!"
+            }
         }
     ]
 	
