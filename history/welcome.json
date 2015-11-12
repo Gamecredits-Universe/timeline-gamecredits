@@ -794,6 +794,29 @@
                 "headline": "GameCredits Project Management Certified Professional",
                 "text": "Congrats Victor Alejandro"
             }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"11",
+                "day": 			"12",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "The countdown began!",
+                "credit": "",
+                "url": "images/grandpr.png",
+                "thumb": 	"images/grandpr.png",
+				"link": "https://twitter.com/GameCredit/status/664813697676812292"
+            },
+            "text": {
+                "headline": "The countdown began!",
+                "text": "One unique track. One supercar. One setup for all competitors. 15000 GameCedits prize for the winner!"
+            }
         }
     ]
 	
