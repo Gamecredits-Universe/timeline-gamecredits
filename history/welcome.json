@@ -817,6 +817,29 @@
                 "headline": "The countdown began!",
                 "text": "One unique track. One supercar. One setup for all competitors. 15000 GameCedits prize for the winner!"
             }
+        },
+        {
+             "start_date": {
+                "year":			"2015",
+                "month":		"11",
+                "day": 			"13",
+                "hour": 		"00",
+                "minute": 		"00",
+                "second": 		"00",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Gaming on the Blockchain",
+                "credit": "",
+                "url": "https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2Fucc5bRz.png&t=558&c=0KZPgvR2o5qYnA",
+                "thumb": 	"https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2Fucc5bRz.png&t=558&c=0KZPgvR2o5qYnA",
+				"link": "http://insidebitcoins.com/san-diego/2015/speakers"
+            },
+            "text": {
+                "headline": "Gamecredits Team @ insidebitcoins San Diego",
+                "text": "Wow, amazing stuff guys! I bet a lot of people are too lazy to check, so I got some screenshots of the Gamecredits speakers!"
+            }
         }
     ]
 	
